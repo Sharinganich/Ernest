@@ -1,2 +1,2 @@
-# Ernest
+# Mirzoian
 Веб-технологии
